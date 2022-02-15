@@ -28,7 +28,7 @@ I believe teams do best when they are connected as humans and encourage team lun
 
 As an architect and developer, I’ve made many mistakes and I have often joked of “error driven development.” I understand sometimes the best way forward in unknown situation is through “bashing rocks together” and figuring something out in real time. I do not believe we have to have the answers, but rather expect we are willing to show up to figure out a problem together. 
 
-1:1s
+**1:1s**
 
 I want to connect with individuals in a 1:1 weekly to start. We can evaluate that schedule as we move forward but in order for me to fully understand and be available for your career growth, I plan on having a sync with you at least once a week for 30min to start. 
 
@@ -36,11 +36,11 @@ This is your time. My promise is to show up fully for you. I will have a documen
 
 **Recognizing Diversity:**
 
-I’m a mother of person on the Autism Spectrum, so I appreciate the different ways strengths and challenges present themself. I understand there is beautiful contribution in ways that might not fit in to social norms. If you are uncomfortable with a task, I’m open to a conversation about why and how we can best work with your strengths as an individual. 
+I’m a mother to a person on the Autism Spectrum, so I appreciate the different ways strengths and challenges present themself. I understand there is beautiful contribution in ways that might not fit in to social norms. If you are uncomfortable with a task, I’m open to a conversation about why and how we can best work with your strengths as an individual. 
 
 **My Strengths:**
 
-I left this part for last because I believe my success as a leader and a people manager is not my own strengths but the team’s. I also acknowledge it can be helpful for some to connect with me as a person if they know what and how I have succeeded as an engineer in my career. 
+I left this part for last because I believe my success as a leader and a people manager is not my own strengths but the team’s. However, it can be helpful for some to connect with me as a person if they know what and how I have succeeded as an engineer in my career. 
 
 First and foremost, I am good at troubleshooting. I learn best working out a problem and finding out how something works. Solving build issues is particularly rewarding since they can be so tricky.
 
