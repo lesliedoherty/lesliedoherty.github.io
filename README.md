@@ -10,7 +10,7 @@ I don’t believe in the traditional “Work/Life Balance”. The word “balanc
 
 **Hours Of Operation:** 
 
-I believe we are living in a digital age and fully take advantage of the “new way we work.” I respect individuals to know how and when they work best, and if you do not have a set pattern, will help  establish that schedule with you.
+I believe we are living in a digital age and fully take advantage of the “new way we work.” I respect that individuals will know how and when they work best, and if you do not have a set pattern, will help  establish that schedule with you.
 
 I believe it’s just as important for people to manage their energy as well as their time. I expect my team to show up fully, which means I expect you to refresh when needed. I do not do believe we work a “Nine To Five” job. However, I do expect to have everyone committed to core hours where collaboration and synchronous work can occur. During team meetings and core hours, I expect to be able to reach you and you to have access to me. I may sometimes send a slack message or email outside of our agreed upon work hours but that is my choice and unless stated as ‘urgent’, can wait until you’re back the following work day. 
 
